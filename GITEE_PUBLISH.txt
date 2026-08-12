@@ -1,0 +1,12 @@
+﻿Gitee 仓库名: yolo-vehicle-depth-track
+一句话简介: YOLO车辆跟踪 + 单目深度估计，演示相机到车辆的距离（Demo，非精确测距）
+
+建议标签（创建仓库时添加）:
+YOLO, 目标检测, 目标跟踪, 单目深度估计, 车辆检测, 车辆跟踪, 测距, 计算机视觉, Python, Ultralytics, ByteTrack, OpenCV, Demo
+
+推荐公开文件:
+- README.md / LICENSE / requirements.txt
+- depth/ detect_track/ final/ common/ tools/
+- data/video.mp4（带水印）
+- assets/*.jpg
+不要上传: data/video_raw.mp4 、 weights/*.pt（体积大，可说明自动下载）

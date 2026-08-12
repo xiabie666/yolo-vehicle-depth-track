@@ -1,0 +1,15 @@
+# 本地无水印原片，开源仓库不要上传
+data/video_raw.mp4
+video_raw.mp4
+
+# 模型权重较大，按需自行下载或放到 weights/
+*.pt
+weights/*.pt
+
+# 运行产物
+outputs/
+__pycache__/
+*.pyc
+.DS_Store
+.idea/
+.vscode/
