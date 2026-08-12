@@ -31,7 +31,7 @@
 
 ![最终效果](assets/04_final_vehicle_distance.jpg)
 
-### 概念效果图（AI）
+### 概念效果图
 
 ![场景海报](assets/09_ai_poster_scene.jpg)
 
