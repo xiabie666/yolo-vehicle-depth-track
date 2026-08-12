@@ -24,7 +24,7 @@
 
 ![测速实拍帧](assets/11_speed_real_frame.jpg)
 
-测速概念效果图（AI）：
+测速概念效果图：
 
 ![测速海报](assets/12_ai_speed_poster.jpg)
 
