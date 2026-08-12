@@ -3,3 +3,4 @@ opencv-python>=4.8.0
 numpy>=1.23.0
 torch>=2.0.0
 lap>=0.5.12
+Pillow>=9.0.0
