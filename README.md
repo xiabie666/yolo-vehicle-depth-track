@@ -31,7 +31,7 @@ Real frame (distance + speed + approaching / leaving):
 
 ![Speed real frame](assets/11_speed_real_frame.jpg)
 
-Concept poster (AI):
+Concept poster :
 
 ![Speed poster](assets/12_ai_speed_poster.jpg)
 
@@ -58,7 +58,7 @@ Meaning: tracked vehicle is ~4.5 m from the camera, estimated radial speed ~18 k
 
 ![Final distance](assets/04_final_vehicle_distance.jpg)
 
-### Concept art (AI)
+### Concept art 
 
 ![Scene poster](assets/09_ai_poster_scene.jpg)
 
